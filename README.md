@@ -4,6 +4,9 @@
 
 In this section, we will create a basic **pipeline** for **exploratory data analysis(EDA)** which can be applied to various datasets with **one main function**.
 
+[Kaggle Link of the Notebook](https://www.kaggle.com/code/trigenaris/basic-pipeline-for-exploratory-data-analysis)
+
+Data sources are added under the **Examples on Datasets** title
 ____
 
 ### Current Features
